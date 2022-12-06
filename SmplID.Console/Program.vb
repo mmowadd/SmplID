@@ -1,4 +1,5 @@
-﻿Imports SmplID.Derayah.VB.Data
+﻿Imports SmplID.Common
+Imports SmplID.Derayah.VB.Data
 
 Module Program
     Private ReadOnly _HCMBaseURL As String = "https://fa-erqw-test-saasfaprod1.fa.ocs.oraclecloud.com"

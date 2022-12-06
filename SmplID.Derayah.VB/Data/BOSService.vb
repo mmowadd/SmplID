@@ -1,6 +1,6 @@
 ﻿Imports SmplID.Derayah.VB.Models.Common
 Imports SmplID.Derayah.VB.Models.BOS
-
+Imports SmplID.Common
 
 Namespace Data
     Public Class BOSService

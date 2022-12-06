@@ -1,4 +1,5 @@
-﻿Imports SmplID.Derayah.VB.Models.Common
+﻿Imports SmplID.Common
+Imports SmplID.Derayah.VB.Models.Common
 Imports SmplID.Derayah.VB.Models.Gitlab
 
 Namespace Data

@@ -106,6 +106,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\SmplID.Common\SmplID.Common.vbproj">
+      <Project>{16197410-3506-4540-AE42-F55D1EFF3AE6}</Project>
+      <Name>SmplID.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SmplID.Derayah.VB\SmplID.Derayah.VB.vbproj">
       <Project>{64f05174-e2ad-437e-9436-7a045ca64704}</Project>
       <Name>SmplID.Derayah.VB</Name>

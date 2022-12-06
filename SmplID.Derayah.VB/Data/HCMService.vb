@@ -1,4 +1,5 @@
-﻿Imports SmplID.Derayah.VB.Models.HCM
+﻿Imports SmplID.Common
+Imports SmplID.Derayah.VB.Models.HCM
 
 Namespace Data
     Public Class HCMService
